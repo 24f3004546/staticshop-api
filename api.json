@@ -28,10 +28,14 @@
     { "id": "prod-d68b4680-022", "name": "Basic Item 22", "category": "sports", "price": 58.13, "stock": 3, "rating": 4.5 },
     { "id": "prod-d68b4680-023", "name": "Pro Item 23", "category": "books", "price": 315.65, "stock": 93, "rating": 2.7 }
   ],
-  "aggregations": {
-    "books": {
-      "count": 6,
-      "inventoryValue": 110626.19
-    }
+"aggregations": {
+  "books": {
+    "count": 6,
+    "inventoryValue": 110626.19
+  },
+  "electronics": {
+    "count": 3,
+    "inventoryValue": 117566.72
   }
+}
 }
