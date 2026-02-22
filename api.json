@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "email": "24f3004546@ds.study.iitm.ac.in",
+    "version": "d68b4680"
+  },
+  "products": [
+    {
+      "id": "prod-d68b4680-001",
+      "name": "Premium Item 1",
+      "category": "electronics",
+      "price": 361.08,
+      "stock": 140,
+      "rating": 3.3
+    },
+    {
+      "id": "prod-d68b4680-002",
+      "name": "Elite Item 2",
+      "category": "home",
+      "price": 453.83,
+      "stock": 30,
+      "rating": 3.8
+    },
+    {
+      "id": "prod-d68b4680-003",
+      "name": "Standard Item 3",
+      "category": "clothing",
+      "price": 200.45,
+      "stock": 70,
+      "rating": 3.1
+    },
+    {
+      "id": "prod-d68b4680-004",
+      "name": "Premium Item 4",
+      "category": "sports",
+      "price": 111.31,
+      "stock": 86,
+      "rating": 1.4
+    },
+    {
+      "id": "prod-d68b468
