@@ -29,13 +29,25 @@
     { "id": "prod-d68b4680-023", "name": "Pro Item 23", "category": "books", "price": 315.65, "stock": 93, "rating": 2.7 }
   ],
 "aggregations": {
-  "books": {
-    "count": 6,
-    "inventoryValue": 110626.19
-  },
   "electronics": {
     "count": 3,
     "inventoryValue": 117566.72
+  },
+  "home": {
+    "count": 8,
+    "inventoryValue": 113330.86
+  },
+  "clothing": {
+    "count": 2,
+    "inventoryValue": 15133.40
+  },
+  "sports": {
+    "count": 5,
+    "inventoryValue": 30092.24
+  },
+  "books": {
+    "count": 6,
+    "inventoryValue": 110626.19
   }
 }
 }
